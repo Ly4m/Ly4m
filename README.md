@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello, I'm William 👋
 
-<!--
-**Ly4m/Ly4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Belgian fullStack developper living in France.
 
-Here are some ideas to get you started:
+I'm the CTO and co-founder of [JetDev](https://jetdev.fr/) a French consulting, digital services and software development company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm : 
+- 🔭 Working on building web application with a recent focus on backend.
+- 🌱 Learning and experimenting with Rust and Security.
+- 📚 Reading "Accelerate: The Science of Lean Software and DevOps"
+- ✍🏻 Writing about workspace customization and improvement on https://dev.to/ly4m
+- 🤩 Interested about the Blockchain and learning new language 
+
+
