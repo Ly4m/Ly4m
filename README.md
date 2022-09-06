@@ -6,7 +6,7 @@ I'm the CTO and co-founder of [JetDev](https://jetdev.fr/) a French consulting, 
 
 Currently I'm : 
 - 🔭 Working on building web application with a recent focus on backend.
-- 🌱 Learning and experimenting with Rust and Security.
+- 🌱 Learning and experimenting with Rust, Security and Solidity smart contracts.
 - 📚 Reading "Accelerate: The Science of Lean Software and DevOps"
 - ✍🏻 Writing about workspace customization and improvement on https://dev.to/ly4m
 - 🤩 Interested about the Blockchain and learning new language 
